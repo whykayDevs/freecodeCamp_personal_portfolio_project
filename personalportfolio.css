@@ -50,6 +50,8 @@ h1 {
   flex-direction: column;
   gap: 20px;
 }
+.profile-img {
+  width: 20%;
 img {
   max-width: 100%;
   margin: 0 auto;
