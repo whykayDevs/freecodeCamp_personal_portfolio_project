@@ -52,6 +52,7 @@ h1 {
 }
 .profile-img {
   width: 20%;
+  border-radius: 30px;
 }
 img {
   max-width: 100%;
