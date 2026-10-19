@@ -53,7 +53,7 @@ h1 {
 .profile-img {
  width: 20%; 
  object-fit: cover;
- border-radius: 70px;
+ border-radius: 50px;
 }
 img {
   max-width: 100%;
