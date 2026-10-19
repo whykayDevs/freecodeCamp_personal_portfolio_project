@@ -51,10 +51,9 @@ h1 {
   gap: 20px;
 }
 .profile-img {
- width: 200px; 
- height: 200px; 
+ width: 20%; 
  object-fit: cover;
-  border-radius: 50%;
+ border-radius: 70px;
 }
 img {
   max-width: 100%;
